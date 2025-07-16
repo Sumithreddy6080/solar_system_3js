@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/textures/(.*)",
+      "destination": "/textures/$1"
+    }
+  ]
+}
